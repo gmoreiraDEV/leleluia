@@ -8,6 +8,7 @@ const nextConfig = {
     images: {
         domains: ['www.datocms-assets.com'],
     },
+    pageExtensions: ['.tsx', 'page.jsx'],
 }
 
 module.exports = nextConfig
